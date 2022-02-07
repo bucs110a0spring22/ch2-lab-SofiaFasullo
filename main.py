@@ -18,4 +18,4 @@ print("The cost per class is ", cost_per_class)
 import random
 artists_I_like = "the 1975", "The Front Bottoms", "Lucy Dacus", "Hailee Steinfeld", "Microwave", "Simon and Garfunkel"
 print(artists_I_like)
-print("The artist I will listen to now is", random.choice(artists_I_like))
+print("Today I will listen to", random.choice(artists_I_like))
