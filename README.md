@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+Part A of my program stores information about university tuition, number of courses, and weeks. It then calculates the tuition per week per course taken, and the tuition per each individual class in that course. This information is stored. Part B of my program stores 6 music artists that I like listening to and then randomly chooses one, so I can decide easier what to listen to now.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+none
 
 ## REFERENCES:
- < List any outside resources used >
+none
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+none
